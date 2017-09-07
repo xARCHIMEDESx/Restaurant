@@ -1,0 +1,5 @@
+﻿2017-09-07 21:47:45,401 [FATAL] - A problem occurred while registering JDBC driver: com.mysql.jdbc.DriverRRRRRRRRR
+2017-09-07 21:48:54,245 [FATAL] - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TABLESdeliberateError' at line 1
+2017-09-07 21:49:17,937 [FATAL] - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTdeliberateError COUNT(*) FROM beverages' at line 1
+2017-09-07 21:53:01,540 [INFO ] - New order! Client name: Vitalik94
+2017-09-07 21:53:27,902 [INFO ] - Order has been payed! Total price: 34.50€. Cash payment
